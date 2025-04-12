@@ -13,7 +13,7 @@
 
 ## 功能
 
-**[点击此处跳转Bilibili演示视频](https://huggingface.co/spaces/zetavg/LLaMA-LoRA-UI-Demo)** 
+**[点击此处跳转Bilibili演示视频](https://www.bilibili.com/video/BV1Zad8YZE7K/?share_source=copy_web&vd_source=1f14aa4a7a70cd26747d2b6218fb9a6d)** 
 > 与虚拟角色进行实时的交流，并实时生成语音回复！
 
 ## 如何开始
